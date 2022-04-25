@@ -1,0 +1,30 @@
+header {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbi-1HIvnFcTpuUo2jd0xYxFiSqA66_u--1w&usqp=CAU)
+/*background-size: cover;*/
+/*background-repeat: no-repeat;*/
+/*background-attachment: fixed ;*/
+/*margin: 0px;
+overflow-x: hidden*/
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.abs-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+ 
+.form {
+    width: 450px;
+}
